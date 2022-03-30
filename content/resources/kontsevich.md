@@ -6,6 +6,7 @@ description: 'This file discusses about the Kontsevich moduli space of stable ma
   divisors on the Kontsevich moduli space.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/da39672634b11e4f26bcf4c45dbbd950_kontsevich.pdf
 file_type: application/pdf
+parent_uid: fa83920d-ea33-ccad-4108-edce3e1dea7a
 resourcetype: Document
 title: kontsevich.pdf
 uid: da396726-34b1-1e4f-26bc-f4c45dbbd950
